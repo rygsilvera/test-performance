@@ -1,0 +1,20 @@
+{
+  "name": "test-performance",
+  "version": "1.0.0",
+  "description": "An example of perfomance teseting using K6",
+  "type": "module",
+  "main": "performance.test.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "example",
+    "automation",
+    "performance"
+  ],
+  "author": "Ryan Silvera rygsilvera@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "k6": "*"
+  }
+}
